@@ -1,0 +1,8 @@
+ds-linux-balance-pet (0.1.0) unstable; urgency=medium
+
+  * Initial Linux release.
+  * Compact dsh-pet animation mode and classic 19-look mode.
+  * Direct DeepSeek balance query, low balance state, usage log and report.
+  * No autostart by default.
+
+ -- KunyangWu <2836477070@qq.com>  Wed, 28 Oct 2026 10:00:00 +0800

@@ -1,0 +1,7 @@
+linux/ds_pet usr/lib/ds-linux-balance-pet/
+linux/assets usr/lib/ds-linux-balance-pet/
+tools/balance_report.py usr/lib/ds-linux-balance-pet/tools/
+packaging/ds-linux-balance-pet usr/bin/
+packaging/ds-linux-balance-pet-report usr/bin/
+packaging/ds-linux-balance-pet.desktop usr/share/applications/
+packaging/ds-linux-balance-pet.png usr/share/pixmaps/

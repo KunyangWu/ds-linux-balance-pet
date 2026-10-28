@@ -1,0 +1,82 @@
+{
+  "source": "https://github.com/PC2005-cloud/dsh-pet",
+  "commit": "a11a9df5d80f906090e7cc98e758c5ac3fc1dc4c",
+  "license": "CC BY-NC-SA 4.0",
+  "files": {
+    "idle.gif": {
+      "source": "daiji-huxi-xiuxian.gif",
+      "sha256": "ab23562dafea476fd136909e4405b90150c7e9434a9e9d2ed4cb73d9f33ddce9",
+      "bytes": 630669
+    },
+    "idle-look.gif": {
+      "source": "dongzhangxiwang.gif",
+      "sha256": "b0488b4eb7068526191abcbda3e4e5453931b672a898ee953489e9d0b2cd3c45",
+      "bytes": 622863
+    },
+    "click-wave.gif": {
+      "source": "dianji-huiying-yuanqi-huishou.gif",
+      "sha256": "36daf6048b3038504d7dbe413545ad08f518cd723d2e1a7e828861818694975b",
+      "bytes": 627065
+    },
+    "click-shy.gif": {
+      "source": "dianji-huiying-haixiu-jingya.gif",
+      "sha256": "3dfe3334a00ff8022077af5116a23d30305f4fbd34460bd5ac0684171d40c97e",
+      "bytes": 637081
+    },
+    "click-happy.gif": {
+      "source": "dianji-huiying-kaixin-yuedong.gif",
+      "sha256": "904f9cc6e24daed9e313cd7ae1d1cac5b921c4300cd52e82ba6a9db0c718c27f",
+      "bytes": 625946
+    },
+    "drag.gif": {
+      "source": "beishubiao-tuozhuai-xuankong-fankui.gif",
+      "sha256": "0bb3db0356490ae264d5278b977c432099b8d5e253e59bcd69e1fee313230caf",
+      "bytes": 654762
+    },
+    "work-thinking.gif": {
+      "source": "gongzuozhuangtai-sikao-maopao.gif",
+      "sha256": "9d52ae5f84c4fa7e0249619b47b556ae26ff81168b5e712d8b5113645cc95546",
+      "bytes": 636712
+    },
+    "work-busy.gif": {
+      "source": "gongzuozhuangtai-manglu-dianan.gif",
+      "sha256": "bab6cb7eff739bac96e8e593b34b842270a5252ae631c0912bb23ab47ebb9a47",
+      "bytes": 627629
+    },
+    "work-success.gif": {
+      "source": "gongzuozhuangtai-queyue-qingzhu.gif",
+      "sha256": "59232775c660091beb5cbe8d8d3381ac04515291caf25ce93313c0fe85989173",
+      "bytes": 633926
+    },
+    "work-error.gif": {
+      "source": "gongzuozhuangtai-chuitou-tanqi-maohan.gif",
+      "sha256": "10d59731c0ad8ab077d7974edef033827b4573e3512e06ebc1413806522f0304",
+      "bytes": 312719
+    },
+    "balance-high.gif": {
+      "source": "qian-dai-man-yi.gif",
+      "sha256": "b6aace2f161bcbf3d2ed74c4b7e23dc03d65875a7559fec8e56f204e4b9c921c",
+      "bytes": 620453
+    },
+    "balance-normal.gif": {
+      "source": "qian-dai-ru-chang.gif",
+      "sha256": "a0f4073de383fdbb5ec601d7e5ac7e63bbcef819a50ea8f4ca027ff4b68a0a6b",
+      "bytes": 656802
+    },
+    "balance-low.gif": {
+      "source": "dai-kong-ru-xi.gif",
+      "sha256": "b26345e63dbfecd89bc420e48e16d574c9224807d1cd74f4fcb447995658d705",
+      "bytes": 644316
+    },
+    "sleep.gif": {
+      "source": "yuandi-xiaoqi-chenmian.gif",
+      "sha256": "a0f7f7c96dccb1679ca4f41fd6b4482eaa6b758b46e8c37219a3ea79c70ed201",
+      "bytes": 626237
+    },
+    "greet.gif": {
+      "source": "nvpu-quxi-liyi.gif",
+      "sha256": "ededb6666ec8d438c0fd74252ebe95bb22c3ee00a26851f977c57e4993cc398f",
+      "bytes": 593893
+    }
+  }
+}

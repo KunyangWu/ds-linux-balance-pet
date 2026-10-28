@@ -1,0 +1,28 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = "configure" ]; then
+    cat >&2 <<'MESSAGE'
+ds-linux-balance-pet 已安装。
+
+首次使用：
+  ds-linux-balance-pet --set-key
+  ds-linux-balance-pet --scale 0.3
+  ds-linux-balance-pet --mode compact
+
+配置文件：
+  ~/.config/ds-linux-balance-pet/config.json
+
+常用配置字段：
+  api_key / scale / animation_mode / low_threshold / refresh_seconds
+  DEEPSEEK_API_KEY 环境变量优先于 config.json 中的 api_key
+
+状态与余额记录：
+  ~/.local/state/ds-linux-balance-pet/
+
+默认不会开机启动。卸载：
+  sudo apt remove ds-linux-balance-pet
+MESSAGE
+fi
+
+exit 0

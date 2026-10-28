@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python3 /usr/lib/ds-linux-balance-pet/tools/balance_report.py "$@"

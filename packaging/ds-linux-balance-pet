@@ -1,0 +1,4 @@
+#!/bin/sh
+export GDK_BACKEND="${GDK_BACKEND:-x11}"
+export PYTHONPATH="/usr/lib/ds-linux-balance-pet${PYTHONPATH:+:$PYTHONPATH}"
+exec python3 -m ds_pet.app "$@"

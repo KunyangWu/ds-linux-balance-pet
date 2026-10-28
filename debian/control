@@ -1,0 +1,21 @@
+Source: ds-linux-balance-pet
+Section: utils
+Priority: optional
+Maintainer: KunyangWu <2836477070@qq.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://github.com/KunyangWu/ds-linux-balance-pet
+
+Package: ds-linux-balance-pet
+Architecture: all
+Depends: python3 (>= 3.10), python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, fonts-noto-cjk, ${misc:Depends}
+Recommends: xwayland
+Description: lightweight DeepSeek balance desktop pet for Linux
+ An unofficial Linux desktop pet focused on the DeepSeek account balance.
+ It uses GTK3 and Cairo, supports a compact animated mode with a small set
+ of dsh-pet animations and a classic mode with 19 static character looks.
+ The balance is read directly from the DeepSeek /user/balance endpoint.
+ .
+ The application is designed for X11 or XWayland sessions. It does not
+ enable login autostart by default and does not include an MCP server.

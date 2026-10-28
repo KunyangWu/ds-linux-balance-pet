@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=余额桌宠
+GenericName=DeepSeek Balance Pet
+Comment=轻量、无 Electron/Node 的 DeepSeek 余额桌宠
+Exec=env GDK_BACKEND=x11 ds-linux-balance-pet
+TryExec=ds-linux-balance-pet
+Icon=ds-linux-balance-pet
+Terminal=false
+Categories=Utility;
+StartupNotify=false
